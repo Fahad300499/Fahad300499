@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img alt="html5" src="./assets/my-banner.jpg" />
+![Image](https://github.com/user-attachments/assets/06bf6e54-3fd8-41b8-81af-2d0b27e8805d)
 ## About Me 
 
 Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
