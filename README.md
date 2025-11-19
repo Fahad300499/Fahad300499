@@ -1,4 +1,10 @@
 ## Hi there 👋
+## About Me 
+
+Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
+
+
+<h3>When I code, I rely on</h3>
 
 <!--
 **Fahad300499/Fahad300499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
