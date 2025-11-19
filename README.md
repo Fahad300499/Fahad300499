@@ -15,6 +15,9 @@ Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a st
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                                         |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
+
+
+## 💻 Tech Stack & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
