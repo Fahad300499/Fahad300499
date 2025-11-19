@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Image](https://github.com/user-attachments/assets/06bf6e54-3fd8-41b8-81af-2d0b27e8805d)
 ## About Me 
 
@@ -59,7 +58,7 @@ Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a st
 You can also find me on:
 
 - **Email**: fahad.147448@gmail.com
-- **Facebook** : [Click Here](https://www.facebook.com/abdullah.al.fahad.570655/)
+- **Mobile** : +880 1772 147448
 
 
 Let's connect and discuss exciting opportunities!
