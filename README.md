@@ -23,6 +23,16 @@ Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a st
 
 
 
+## Contact
+
+You can also find me on:
+
+- **Email**: fahad.147448@gmail.com
+- **Facebook** : [Click Here](https://www.facebook.com/abdullah.al.fahad.570655/)
+
+
+Let's connect and discuss exciting opportunities!
+
 <!--
 **Fahad300499/Fahad300499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
