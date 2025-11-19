@@ -34,6 +34,14 @@ Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a st
 </p>
 
 
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="YOUR_FACEBOOK_URL" target="blank"><img src="https://img.shields.io/badge/Facebook-https://www.facebook.com/abdullah.al.fahad.570655/" alt="Facebook Badge"/></a>
+</p>
+
+
  ## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
