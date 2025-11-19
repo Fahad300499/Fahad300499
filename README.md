@@ -15,6 +15,20 @@ Hi there! I'm <b>Abdullah Al Fahad</b>. I'm a passionate Web Developer with a st
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                                         |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
+</p>
+
 
  ## Github Stats
 
